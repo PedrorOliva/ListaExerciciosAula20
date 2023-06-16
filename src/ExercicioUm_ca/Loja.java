@@ -28,17 +28,6 @@ public class Loja {
 
     System.out.println("Produtos com o mesmo código: " + Livro1.codigo.equals(Livro2.codigo));
 
-//    System.out.println("Digite o código do produto: ");
-//    Integer codigoBusca = inputUsuario.nextInt();
-//
-//    for(Produto produtos : catalogo){
-//      if(codigoBusca.equals(catalogo.contains(codigoBusca))){
-//        System.out.println(produtos);
-//      } else {
-//        System.out.println("não achei");
-//      }
-//
-//    }
 
   }
 }
